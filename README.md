@@ -1,2 +1,1 @@
-# BmwGoodGhust
-BMW GOOD GHUST + design
+# BMW-Good-Guhst
